@@ -77,9 +77,11 @@ In order to demostrate to the client how they can combine filters, we filtered t
 - One drawback of this page is that the user interaction with the page is limited to the filters. The page dosen't provide a way to provide feedback, help section or FAQ. In addition the client needs to manually clear the filters to reset the page.
 
 - For future development we would consider the following:
-    - Adding a way for the user to clear all the filters at once.
-    - Adding a way to filter by keyword on the entire webpage.
+    - Provide a way for the user to clear all the filters at once, by adding a "clear filters button".
+    - Provide a way to filter by keyword on the entire webpage, by adding an "input box".
     - Adding a FAQ or help sections with links and some information on how to use the page.
+
+This improvements will allowd the page to be more dynamic, user friendlly and provide a more inmersive experience for the end user.
 
 <br/>
 
